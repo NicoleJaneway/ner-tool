@@ -1,6 +1,5 @@
 import streamlit as st
 import ktrain
-import pickle
 
 from displacy_utils import *
 
