@@ -1,2 +1,5 @@
 streamlit
 tensorflow==2.5.0
+ktrain==0.26.3
+spacy
+pandas
